@@ -253,12 +253,12 @@ section .header{
     font-weight: 600;
 }
 
-.pricing .card h3{
+.pricing .card h2{
     text-align: center;
     color: #fff;
     padding-bottom: 1rem;
     margin-bottom: 2rem;
-    font-size: 2rem;
+    font-size: 2.5rem;
     font-weight: 600;
     border-bottom: 2px dashed #fff;
 }
