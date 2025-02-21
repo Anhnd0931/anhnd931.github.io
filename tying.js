@@ -1,8 +1,7 @@
 // Define an array of strings to be displayed and erased
 const textArray = [
-  "a",  
-  "Business Intelligence Analyst",
-  "Data Analyst"
+  "a Business Intelligence Analyst",
+  "a Data Analyst"
     // Add more strings as needed
   ];
   
